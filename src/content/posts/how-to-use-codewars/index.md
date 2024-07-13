@@ -1,6 +1,6 @@
 ---
 title: Как пользоваться codewars
-published: 2024-07-01
+published: 2024-07-14
 description: "Если вы никогда раньше не решали задачки на codewars, то эта инструкция может оказаться вам полезной."
 image: "./hero.png"
 tags: ["codewars", "алгоритмы"]
