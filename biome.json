@@ -7,7 +7,7 @@
   },
   "formatter": {
     "enabled": true,
-    "formatWithErrors": false,
+    "formatWithErrors": true,
     "ignore": [],
     "indentStyle": "space",
     "indentWidth": 2,
