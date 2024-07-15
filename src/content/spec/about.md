@@ -1,6 +1,6 @@
-# About
-This is the a blog site [Alveek](https://github.com/alveek).
+# О блоге
 
 ::github{repo="alveek/nutsandmilk"}
 
-Hot reload is not working fucking shit
+Меня зовут Алексей и это мой блог, в котором я пишу на околоайтишные темы.
+Я назвал его *"Nuts and Milk"* в честь одноименной игры на NES, которая мне очень нравится. Я решил, что обязательно в честь неё что-нибудь назову. Так и сделал.
